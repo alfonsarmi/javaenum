@@ -231,7 +231,7 @@ public class Pizza {
 			return false;
 		}
 
-		public boolean isReady() { 
+		public boolean isReady() {
 			return false;
 		}
 
