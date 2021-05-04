@@ -1,6 +1,6 @@
 /*
  * 		file.Classes[0].Name	"Pizza"	string
--		file.Operands	Count = 192	System.Collections.Generic.List<string>
+-		file.Operands	Count = 192	System.Collections.Generic.List<string> 
 		[0]	"package"	string
 		[1]	"basic"	string
 		[2]	"."	string
